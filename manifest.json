@@ -1,0 +1,27 @@
+{
+  "name": "BakingSlim — Daily Metabolic Balance",
+  "short_name": "BakingSlim",
+  "description": "BakingSlim is a once-daily capsule with chromium and a 510 mg botanical blend. See every BakingSlim price, what the label publishes and what it leaves out.",
+  "lang": "en-US",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0d1430",
+  "theme_color": "#0d1430",
+  "categories": [
+    "health",
+    "fitness",
+    "shopping"
+  ],
+  "icons": [
+    {
+      "src": "/images/favicon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

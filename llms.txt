@@ -1,0 +1,42 @@
+# BakingSlim
+
+> BakingSlim is a dietary supplement taken as one capsule a day, sold under the line "Daily Metabolic Balance". Its published Supplement Facts panel contains exactly two figures: chromium as chromium picolinate at 100 mcg (286% of the Daily Value) and a Proprietary Metabolic Blend of 510 mg holding eight named botanicals with no individual amounts. Three packages are sold: two bottles at $79 each ($158, postage extra and never stated), three bottles at $69 each ($207, postage covered) and six bottles at $49 each ($294, postage covered). Every package carries a 60-day money-back guarantee and bottles do not need to be returned.
+
+This is a single page about BakingSlim, written for buyers in the United States and last checked on 17 November 2026. Figures are read from the official BakingSlim listing. It is not a review: it carries no score, no star rating and no testimonials. Where the seller publishes nothing — the per-botanical amounts, the capsule count per bottle, other ingredients, allergens, the two-bottle postage charge, transit time, any FDA-registered facility claim, the manufacturer's name — this page says so instead of substituting an estimate. Links are paid affiliate links; the buyer's total is unaffected.
+
+## What BakingSlim publishes
+
+- [BakingSlim at a glance](https://bakingslim-org.vercel.app/#snapshot): What the product is, the two published figures, and the three facts the official listing omits.
+- [What BakingSlim promises](https://bakingslim-org.vercel.app/#promise): The seller's three benefit claims, set beside the NIH's finding that there is little scientific evidence weight-loss supplements work.
+- [The two numbers BakingSlim publishes](https://bakingslim-org.vercel.app/#facts): Chromium at 100 mcg (286% DV) and a 510 mg Proprietary Metabolic Blend. The whole panel.
+- [The eight botanicals inside BakingSlim](https://bakingslim-org.vercel.app/#blend): Green tea leaf extract, apple cider vinegar, berberine HCl, ginger root, cinnamon bark extract, bitter orange fruit extract, cayenne fruit, banaba leaf extract — none with an amount of its own.
+- [What BakingSlim does not tell you](https://bakingslim-org.vercel.app/#gap): Published facts and withheld facts side by side, and what a proprietary blend costs the buyer.
+- [How many capsules are in a BakingSlim bottle?](https://bakingslim-org.vercel.app/#bottle): The supply labels imply 30 capsules on two packages and 15 on the third. Nothing is published.
+- [The BakingSlim label in plain English](https://bakingslim-org.vercel.app/#glossary): Seven label terms defined, including proprietary blend, Daily Value, synephrine and GMP certified.
+- [BakingSlim photographed](https://bakingslim-org.vercel.app/#gallery): Seller-supplied product images of the bottle, the printed panel and the badge row. No customer photographs and no testimonials.
+- [How this BakingSlim page was built](https://bakingslim-org.vercel.app/#method): Where every figure came from, why nothing is estimated, and the affiliate arrangement behind the links.
+
+## Taking BakingSlim
+
+- [Taking BakingSlim day to day](https://bakingslim-org.vercel.app/#daily): One capsule daily with a full glass of water, without skipped days, for a full 90-day run.
+- [Three BakingSlim ingredients that deserve a closer look](https://bakingslim-org.vercel.app/#flags): Bitter orange, green tea extract and berberine, with what the NIH says about each and who should ask a doctor first.
+- [When BakingSlim is not the right product](https://bakingslim-org.vercel.app/#notfor): Under 18, pregnant or nursing, on blood sugar or blood pressure medication, and four more cases.
+- [When BakingSlim says changes should show](https://bakingslim-org.vercel.app/#when): The seller's 3-4 week and 4-8 week windows, and the clash between a 90-day trial and a 60-day refund.
+- [What BakingSlim is designed to sit alongside](https://bakingslim-org.vercel.app/#support): The seller's own position that the capsule supports eating and movement rather than replacing them.
+
+## Buying BakingSlim
+
+- [BakingSlim packages side by side](https://bakingslim-org.vercel.app/#packs): All three prices, the postage rules and the struck-through $179 reference figure.
+- [BakingSlim measured by the day](https://bakingslim-org.vercel.app/#perday): $2.63, $2.30 and $1.63 a day, and why the first figure depends on an unpublished capsule count.
+- [Getting your money back from BakingSlim](https://bakingslim-org.vercel.app/#refund): A 60-day, no-questions-asked guarantee, claimed by email, with no bottles to return.
+- [How a BakingSlim order reaches you](https://bakingslim-org.vercel.app/#arrival): Dispatch within 24 hours from Aurora, Colorado; BuyGoods of Wilmington, Delaware as retailer of record.
+- [Who makes BakingSlim and who sells it](https://bakingslim-org.vercel.app/#origin): Three published manufacturing claims, and the FDA-registered facility claim that is absent.
+- [BakingSlim, question by question](https://bakingslim-org.vercel.app/#answers): Ten questions answered from the official listing, matching the FAQPage structured data on the page.
+
+## External references
+
+- [NIH Office of Dietary Supplements: weight-loss supplements](https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/): The federal consumer fact sheet, including its notes on bitter orange and green tea extract.
+- [NIDDK: choosing a safe and successful weight-loss program](https://www.niddk.nih.gov/health-information/weight-management/choosing-a-safe-successful-weight-loss-program): What to look for and what counts as a warning sign.
+- [MedlinePlus: weight control](https://medlineplus.gov/weightcontrol.html): General background from the National Library of Medicine.
+- [FDA: dietary supplements](https://www.fda.gov/food/dietary-supplements): How US supplements are regulated, and why nothing is approved before sale.
+- [FTC: health claims guidance](https://www.ftc.gov/business-guidance/advertising-marketing/health-claims): The limits on what any page selling a supplement may assert.
